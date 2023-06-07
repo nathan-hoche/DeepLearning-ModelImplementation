@@ -8,4 +8,4 @@
 |------|-------|-------------|-----------------|
 | Generative | `GAN` | Generative Adversarial Network | started |
 | Generative | `VAE` | Variational Autoencoder | No |
-| Generative | `Autoencoder` | Autoencoder | No |
+| Generative | `Autoencoder` | Autoencoder | started |
